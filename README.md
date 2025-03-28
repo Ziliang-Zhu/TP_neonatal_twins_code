@@ -1,6 +1,6 @@
 # TP_neonatal_twins_code
 
-The folders listed above include codes for analyses described in the manuscript titled “**The Innate Neural Representation Network Mechanisms of Semantic Knowledge: Converging Evidence from Neonatal and Adult Twin Studies**”. Additionally, we have provided brain images of adult and neonatal temporal pole (TP) parcellations, as well as the neural network masks used in the Regions of Interest (ROI) analyses.
+The folders listed above include codes for analyses described in the manuscript titled “**Innate Network Mechanisms of Temporal Pole for Semantic Cognition in Neonatal and Adult Twin Studies**”. Additionally, we have provided brain images of adult and neonatal temporal pole (TP) parcellations, as well as the neural network masks used in the Regions of Interest (ROI) analyses.
 
 **Installation Guide:**
 
